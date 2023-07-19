@@ -59,7 +59,49 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
+  assets:
+   - assets/icons/arrow_right.svg
+   - assets/icons/Back_icon.svg
+   - assets/icons/Bell.svg
+   - assets/icons/Bill_Icon.svg
+   - assets/icons/Call.svg
+   - assets/icons/Camera_Icon.svg
+   - assets/icons/Cart_Icon.svg
+   - assets/icons/Cash.svg
+   - assets/icons/Chat_bubble_Icon.svg
+   - assets/icons/Check_mark_rounded.svg
+   - assets/icons/Close.svg
+   - assets/icons/Conversation.svg
+   - assets/icons/Discover.svg
+   - assets/icons/Error.svg
+   - assets/icons/facebook-2.svg
+   - assets/icons/Flash_Icon.svg
+   - assets/icons/Game_Icon.svg
+   - assets/icons/Gift_Icon.svg
+   - assets/icons/google_icon.svg
+   - assets/icons/Heart_Icon_2.svg
+   - assets/icons/Heart_Icon.svg
+   - assets/icons/Location_point.svg
+   - assets/icons/Lock.svg
+   - assets/icons/Log_out.svg
+   - assets/icons/Mail.svg
+   - assets/icons/Parcel.svg
+   - assets/icons/Phone.svg
+   - assets/icons/Plus_Icon.svg
+   - assets/icons/Question_mark.svg
+   - assets/icons/receipt.svg
+   - assets/icons/remove.svg
+   - assets/icons/Search_Icon.svg
+   - assets/icons/Settings.svg
+   - assets/icons/Shop_Icon.svg
+   - assets/icons/Star_Icon.svg
+   - assets/icons/Success.svg
+   - assets/icons/Trash.svg
+   - assets/icons/twitter.svg
+   - assets/icons/User_Icon.svg
+   - assets/icons/User.svg
+
+
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
