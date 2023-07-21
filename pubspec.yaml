@@ -100,6 +100,15 @@ flutter:
    - assets/icons/twitter.svg
    - assets/icons/User_Icon.svg
    - assets/icons/User.svg
+   - assets/images/apple-pay.png
+   - assets/images/fedex-express.png
+   - assets/images/glap.png
+   - assets/images/google-pay.png
+   - assets/images/Image Banner 2.png
+   - assets/images/Image Popular Product 2.png
+   - assets/images/Image Popular Product 1.png
+   - assets/images/Image Popular Product 3.png
+   - assets/images/mastercard-2.png
 
 
   #   - images/a_dot_burr.jpeg
